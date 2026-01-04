@@ -6,7 +6,7 @@
     
     <!-- मुख्य पेज -->
     <url>
-        <loc>https://priyanshumorya71-bot.github.io/Maurya-Web-Empire/</loc>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Web-Empire-/</loc>
         <lastmod>2025-01-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
@@ -14,7 +14,7 @@
     
     <!-- सेवाएं पेज (डायनामिक URLs) -->
     <url>
-        <loc>https://priyanshumorya71-bot.github.io/Maurya-Web-Empire/#services</loc>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Web-Empire-/#services</loc>
         <lastmod>2025-01-03</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
@@ -22,7 +22,7 @@
     
     <!-- श्रेणियाँ पेज -->
     <url>
-        <loc>https://priyanshumorya71-bot.github.io/Maurya-Web-Empire/#categories</loc>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Web-Empire-/#categories</loc>
         <lastmod>2025-01-03</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
